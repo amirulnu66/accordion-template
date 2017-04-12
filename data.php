@@ -1,1 +1,0 @@
-Note that older versions of Git used to ignore removed files; use --no-all option if you want to add modified or new files but ignore removed ones. Don't actually add the file(s), just show if they exist and/or will be ignored. Add modified contents in the working tree interactively to the index.
